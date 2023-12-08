@@ -22,6 +22,8 @@
     <a href="https://github.com/Ruogu-Sun?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
 </p>
 
+<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruogu-Sun&hide=html,&hide_border=true&title_color=5391FE&text_color=555" />
+
 <!---
 Ruogu-Sun/Ruogu-Sun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
